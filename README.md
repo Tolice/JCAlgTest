@@ -65,3 +65,4 @@ More detailed usage:
 5. Please consider to send me (petr@svenda.com) your results in case your card is not yet in the database at http://www.fi.muni.cz/~xsvenda/jcsupport.html
 
 See more details at http://www.fi.muni.cz/~xsvenda/jcsupport.html
+Download complete project and full version about this applet, you can visit http://javacardos.com/javacardforum/viewforum.php?f=30
